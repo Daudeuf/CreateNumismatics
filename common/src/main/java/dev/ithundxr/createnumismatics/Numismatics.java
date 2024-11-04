@@ -39,7 +39,7 @@ import dev.ithundxr.createnumismatics.registry.NumismaticsAdvancements;
 import dev.ithundxr.createnumismatics.registry.NumismaticsCommands;
 import dev.ithundxr.createnumismatics.registry.NumismaticsCreativeModeTabs.Tabs;
 import dev.ithundxr.createnumismatics.registry.NumismaticsPackets;
-import dev.ithundxr.createnumismatics.util.NumismaticsUpdateCheck;
+import dev.ithundxr.createnumismatics.util.MethodVarHandleUtils;
 import dev.ithundxr.createnumismatics.util.Utils;
 import net.minecraft.SharedConstants;
 import net.minecraft.commands.CommandSourceStack;
@@ -65,8 +65,8 @@ public class Numismatics {
     }
 
     public static void init() {
+        String createVersion = MethodVarHandleUtils.getStaticField(Create.class, "VERSION", String.class, "UNKNOWN");
         LOGGER.info("{} v{} initializing! Commit hash: {} Create version: {} on platform: {}", NAME, NumismaticsBuildInfo.VERSION, NumismaticsBuildInfo.GIT_COMMIT, Create.VERSION, Loader.getFormatted());
-        NumismaticsUpdateCheck.execute();
         
         ModSetup.register();
         finalizeRegistrate();
