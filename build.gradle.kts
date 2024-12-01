@@ -8,7 +8,7 @@ plugins {
     java
     `maven-publish`
     id("architectury-plugin") version "3.4.+"
-    id("dev.architectury.loom") version "1.8.+" apply false
+    id("dev.architectury.loom") version "1.7.+" apply false
     id("me.modmuss50.mod-publish-plugin") version "0.3.4" apply false // https://github.com/modmuss50/mod-publish-plugin
     id("com.github.johnrengelman.shadow") version "8.1.1" apply false
     id("dev.ithundxr.silk") version "0.11.+" // https://github.com/IThundxr/silk
