@@ -27,6 +27,11 @@ Changes
 - OP'ed players no longer automatically have access to all Numismatics blocks. Instead, they can use the command `/numismatics toggle_admin_mode` to toggle that ability
 - Update to Create 0.5.1-j
 ------------------------------------------------------
+Numismatics 1.0.8
+------------------------------------------------------
+Fixes
+- Update to Create Fabric 0.5.1-j
+------------------------------------------------------
 Numismatics 1.0.7
 ------------------------------------------------------
 Fixes
