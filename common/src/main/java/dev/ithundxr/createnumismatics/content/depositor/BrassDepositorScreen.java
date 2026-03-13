@@ -111,11 +111,9 @@ public class BrassDepositorScreen extends AbstractSimiContainerScreen<BrassDepos
 
         graphics.drawCenteredString(font, title, x + (background.width - 8) / 2, y + 3, 0xFFFFFF);
 
-        Couple<Integer> cogsAndSpurs = Coin.COG.convert(menu.contentHolder.getTotalPrice());
-        int cogs = cogsAndSpurs.getFirst();
-        int spurs = cogsAndSpurs.getSecond();
+        int spurs = menu.contentHolder.getTotalPrice();
         Component balanceLabel = Component.translatable("block.numismatics.brass_depositor.tooltip.price",
-            TextUtils.formatInt(cogs), Coin.COG.getName(cogs), spurs);
+            TextUtils.formatInt(spurs), Coin.SPUR.getName(spurs));
         graphics.drawCenteredString(font, balanceLabel, x + (background.width - 8) / 2, y + 21, 0xFFFFFF);
     }
 

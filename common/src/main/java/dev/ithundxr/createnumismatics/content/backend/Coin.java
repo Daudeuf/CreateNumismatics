@@ -25,11 +25,11 @@ import static dev.ithundxr.createnumismatics.registry.NumismaticsIcons.*;
  */
 public enum Coin implements INamedIconOptions {
     SPUR(1, Rarity.COMMON, I_COIN_SPUR, "\uF011"),
-    BEVEL(8, Rarity.COMMON, I_COIN_BEVEL, "\uF012"), // 8 spurs
-    SPROCKET(16, Rarity.COMMON, I_COIN_SPROCKET, "\uF013"), // 16 spurs, 2 bevels
-    COG(64, Rarity.UNCOMMON, I_COIN_COG, "\uF014"), // 64 spurs, 8 bevels, 4 sprockets
-    CROWN(512, Rarity.RARE, I_COIN_CROWN, "\uF015"), // 512 spurs, 64 bevels, 32 sprockets, 8 cogs
-    SUN(4096, Rarity.EPIC, I_COIN_SUN, "\uF016") // 4096 spurs, 512 bevels, 256 sprockets, 64 cogs, 8 crowns
+    BEVEL(10, Rarity.COMMON, I_COIN_BEVEL, "\uF012"), // 8 spurs
+    SPROCKET(50, Rarity.COMMON, I_COIN_SPROCKET, "\uF013"), // 16 spurs, 2 bevels
+    COG(500, Rarity.UNCOMMON, I_COIN_COG, "\uF014"), // 64 spurs, 8 bevels, 4 sprockets
+    CROWN(2500, Rarity.RARE, I_COIN_CROWN, "\uF015"), // 512 spurs, 64 bevels, 32 sprockets, 8 cogs
+    SUN(25000, Rarity.EPIC, I_COIN_SUN, "\uF016") // 4096 spurs, 512 bevels, 256 sprockets, 64 cogs, 8 crowns
     ;
 
     public final int value; // in terms of spurs
@@ -102,10 +102,11 @@ public enum Coin implements INamedIconOptions {
     }
 
     public Coin getDescription() {
-        return switch (this) {
+        return SPUR;
+        /*return switch (this) {
             case SPUR, BEVEL, SPROCKET -> SPUR;
             case COG, CROWN, SUN -> COG;
-        };
+        };*/
     }
 
     public ItemStack asStack() {

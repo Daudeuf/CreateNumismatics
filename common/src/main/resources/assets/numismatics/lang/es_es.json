@@ -1,6 +1,6 @@
 {
   "block.numismatics.vendor.tooltip.mode": "Modo",
-  "block.numismatics.vendor.tooltip.price": "Por: %s %s, %s¤",
+  "block.numismatics.vendor.tooltip.price": "Por: %s %s",
   "gui.numismatics.vendor.mode.buy": "Compra",
   "gui.numismatics.vendor.mode.buy.action": "Usa para comprar",
   "gui.numismatics.vendor.mode.sell": "Venta",
