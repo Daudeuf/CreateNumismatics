@@ -199,6 +199,7 @@ subprojects {
         val commonSources = project(":common").tasks.getByName<Jar>("sourcesJar")
         dependsOn(commonSources)
         from(commonSources.archiveFile.map { zipTree(it) })
+        duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
         manifest {
             attributes(mapOf("Git-Hash" to gitHash))

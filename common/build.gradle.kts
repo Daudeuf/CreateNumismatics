@@ -50,6 +50,7 @@ dependencies {
 tasks.processResources {
     // don't add development or to-do files into built jar
     exclude("**/*.bbmodel", "**/*.lnk", "**/*.xcf", "**/*.md", "**/*.txt", "**/*.blend", "**/*.blend1")
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 }
 
 sourceSets.main {

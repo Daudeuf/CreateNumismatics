@@ -79,12 +79,12 @@ public enum Coin implements INamedIconOptions {
         return name().toLowerCase(Locale.ROOT);
     }
 
-    public String getTranslatedName() {
-        return Component.translatable(getTranslationKey()).getString().toLowerCase(Locale.ROOT);
+    public String getTranslatedName(boolean plural) {
+        return Component.translatable(plural ? getTranslationKeyPlural() : getTranslationKey()).getString().toLowerCase(Locale.ROOT);
     }
 
     public String getName(int amount) {
-        return getTranslatedName() + (amount != 1 ? "s" : "");
+        return getTranslatedName(amount > 1);
     }
 
     public String getDisplayName() {
@@ -99,6 +99,9 @@ public enum Coin implements INamedIconOptions {
     @Override
     public String getTranslationKey() {
         return "item.numismatics." + getName();
+    }
+    public String getTranslationKeyPlural() {
+        return "item.numismatics." + getName() + ".plural";
     }
 
     public Coin getDescription() {

@@ -20,6 +20,14 @@ import dev.ithundxr.silk.ChangelogText
 
 architectury.forge()
 
+val generatedResources = project(":common").file("src/generated/resources")
+
+sourceSets {
+    named("main") {
+        resources.srcDir(generatedResources)
+    }
+}
+
 loom {
     accessWidenerPath = project(":common").loom.accessWidenerPath
 
@@ -29,6 +37,19 @@ loom {
 
         convertAccessWideners = true
         extraAccessWideners.add(loom.accessWidenerPath.get().asFile.name)
+    }
+
+    runs {
+        create("data") {
+            data()
+
+            programArgs(
+                "--all",
+                "--mod", "numismatics",
+                "--output", generatedResources.absolutePath,
+                "--existing", project(":common").file("src/main/resources").absolutePath
+            )
+        }
     }
 }
 
