@@ -118,7 +118,7 @@ public class CoinItem extends Item {
         super.appendHoverText(stack, level, tooltipComponents, isAdvanced);
         Coin descriptor = coin.getDescription();
         if (descriptor == Coin.SPUR) {
-            tooltipComponents.add(Component.translatable("item.numismatics.coin.tooltip.value.basic", coin.value));
+            tooltipComponents.add(Component.translatable("item.numismatics.coin.tooltip.value.basic", TextUtils.formatInt(coin.value)));
         } else {
             int relativeValue = coin.value / descriptor.value;
             tooltipComponents.add(Component.translatable("item.numismatics.coin.tooltip.value", relativeValue, descriptor.getName(relativeValue), coin.value));
