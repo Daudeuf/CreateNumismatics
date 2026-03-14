@@ -75,7 +75,7 @@ public class BankScreen extends AbstractSimiContainerScreen<BankMenu> {
 
         int spurs = menu.contentHolder.getBalance();
         Component balanceLabel = Component.translatable("gui.numismatics.bank_terminal.balance",
-            TextUtils.formatInt(spurs), Coin.SPUR.getName(spurs));
+            TextUtils.formatInt(spurs));
         graphics.drawCenteredString(font, balanceLabel, x + (background.width - 8) / 2, y + 21, 0xFFFFFF);
     }
 }

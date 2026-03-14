@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "Крамниця",
   "block.numismatics.vendor.tooltip": "Крамниця",
   "block.numismatics.vendor.tooltip.mode": "Режим",
-  "block.numismatics.vendor.tooltip.price": "За: %s %s",
+  "block.numismatics.vendor.tooltip.price": "За: %s¤",
   "block.numismatics.vendor.tooltip.stock": "Запас",
   "block.numismatics.vendor.tooltip.summary": "Дозволяє торгувати предметами через створені гравцем крамниці. Клацніть ПКМ, щоби торгувати, або ПКМ + Shift, щоби налаштувати її.",
   "block.numismatics.vendor.tooltip.trade_item": "Предмет на продаж",

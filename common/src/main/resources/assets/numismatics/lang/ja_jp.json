@@ -33,7 +33,7 @@
   "block.numismatics.vendor.tooltip.summary": "プレイヤーが作成したショップを介してアイテムを取引することができます。_右クリック_で取引、_Shiftクリック_で設定ができます。",
   "block.numismatics.vendor.tooltip.trade_item": "取引するアイテム",
   "command.numismatics.arguments.enum.invalid": "エラー：「%s」は無効な列挙値です。有効な値は以下の通りです：%s",
-  "gui.numismatics.bank_terminal.balance": "残高：%s%s",
+  "gui.numismatics.bank_terminal.balance": "残高：%s¤",
   "gui.numismatics.trust_list": "信頼リスト",
   "gui.numismatics.vendor.count": " （%s個）",
   "gui.numismatics.vendor.full": "販売機がいっぱいです",

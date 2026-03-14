@@ -33,7 +33,7 @@
   "block.numismatics.vendor.tooltip.summary": "Maakt het verhandelen van voorwerpen via spelergemaakte winkels mogelijk. _Rechtsklik_ om te verhandelen of _shift klik_ om het te configureren.",
   "block.numismatics.vendor.tooltip.trade_item": "Voorwerp te Handelen",
   "command.numismatics.arguments.enum.invalid": "Fout: Ongeldige enum waarde '%s'. Geldige waarden zijn: %s",
-  "gui.numismatics.bank_terminal.balance": "Saldo: %s %s",
+  "gui.numismatics.bank_terminal.balance": "Saldo: %s¤",
   "gui.numismatics.trust_list": "Vertrouwde Spelers",
   "gui.numismatics.vendor.count": " (%sx)",
   "gui.numismatics.vendor.full": "Winkel is vol",

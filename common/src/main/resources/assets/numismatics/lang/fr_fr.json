@@ -33,7 +33,7 @@
   "block.numismatics.vendor.tooltip.summary": "Permet d'échanger des items à travers les boutiques du joueur. _Clic droit_ pour échanger, ou _Maj + Clic droit_ pour configurer.",
   "block.numismatics.vendor.tooltip.trade_item": "Objet à échanger",
   "command.numismatics.arguments.enum.invalid": "Erreur : Valeur invalide '%s'. Les valeurs valides sont : %s",
-  "gui.numismatics.bank_terminal.balance": "Solde : %s %s",
+  "gui.numismatics.bank_terminal.balance": "Solde : %s¤",
   "gui.numismatics.trust_list": "Liste de confiance",
   "gui.numismatics.vendor.count": " (%sx)",
   "gui.numismatics.vendor.full": "La boutique est pleine",

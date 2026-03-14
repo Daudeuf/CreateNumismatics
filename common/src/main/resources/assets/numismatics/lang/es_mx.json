@@ -33,7 +33,7 @@
   "block.numismatics.vendor.tooltip.summary": "Permite el intercambio de objetos a través de tiendas creadas por los jugadores. Haz clic derecho para comerciar, o _mantén presionada la tecla Shift_ para configurarlo.",
   "block.numismatics.vendor.tooltip.trade_item": "Objeto a comerciar",
   "command.numismatics.arguments.enum.invalid": "Error: Valor de enumeración '%s' no válido. Los valores válidos son: %s",
-  "gui.numismatics.bank_terminal.balance": "Saldo: %s %s",
+  "gui.numismatics.bank_terminal.balance": "Saldo: %s¤",
   "gui.numismatics.trust_list": "Lista de Confianza",
   "gui.numismatics.vendor.count": " (%sx)",
   "gui.numismatics.vendor.full": "El vendedor está lleno",

@@ -12,7 +12,7 @@
   "item.numismatics.cog.plural": "Cogs",
   "item.numismatics.crown.plural": "Crowns",
   "item.numismatics.sun.plural": "Suns",
-  "gui.numismatics.bank_terminal.balance": "Balance: %s %s",
+  "gui.numismatics.bank_terminal.balance": "Balance: %s¤",
   "command.numismatics.arguments.enum.invalid": "Error: Invalid enum value '%s'. Valid values are: %s",
   "itemGroup.numismatics": "Create: Numismatics",
   "gui.numismatics.trust_list": "Trust List",

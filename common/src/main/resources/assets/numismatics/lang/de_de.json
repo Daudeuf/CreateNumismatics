@@ -33,7 +33,7 @@
   "block.numismatics.vendor.tooltip.summary": "Ermöglicht den Handel von Gegenständen durch Spieler gemachte Geschäfte. _Rechtsklick_ zum Handeln, oder _Shift-Klick_ um es zu konfigurieren.",
   "block.numismatics.vendor.tooltip.trade_item": "Gegenstand zum Handel",
   "command.numismatics.arguments.enum.invalid": "Fehler: Ungültiger Enum-Wert '%s'. Gültige Werte sind: %s",
-  "gui.numismatics.bank_terminal.balance": "Kontostand: %s %s",
+  "gui.numismatics.bank_terminal.balance": "Kontostand: %s¤",
   "gui.numismatics.trust_list": "Vertrauensliste",
   "gui.numismatics.vendor.count": " (%sx)",
   "gui.numismatics.vendor.full": "Verkaufsstand",
