@@ -19,7 +19,7 @@
   "block.numismatics.blaze_banker.tooltip.summary": "Создаёт банковский счёт от имени банкира, полезен для использования несколькими игроками. Вы можете привязать _банковскую карту_, положив её в соответствующий слот.",
   "block.numismatics.brass_depositor": "Латунный валидатор",
   "block.numismatics.brass_depositor.tooltip": "ЛАТУННЫЙ ВАЛИДАТОР",
-  "block.numismatics.brass_depositor.tooltip.price": "Цена: %s %s",
+  "block.numismatics.brass_depositor.tooltip.price": "Цена: %s¤",
   "block.numismatics.brass_depositor.tooltip.summary": "_ПКМ крадучись_ для настройки, _ПКМ_ для оплаты заданной цены картой в руке или монетками в инвентаре, после чего генерирует редстоун-импульс.",
   "block.numismatics.creative_vendor": "Творческий торговый автомат",
   "block.numismatics.creative_vendor.tooltip": "ТВОРЧЕСКИЙ ТОРГОВЫЙ АВТОМАТ",

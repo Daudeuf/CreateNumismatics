@@ -19,7 +19,7 @@
   "block.numismatics.blaze_banker.tooltip.summary": "バンカーの名義で銀行口座を作成します。複数人で口座を共有したい場合に便利です。適切なスロットに_銀行カード_を置くことで、バンカーにカードを割り当てることができます。",
   "block.numismatics.brass_depositor": "真鍮預金機",
   "block.numismatics.brass_depositor.tooltip": "真鍮預金機",
-  "block.numismatics.brass_depositor.tooltip.price": "価格：%s%s",
+  "block.numismatics.brass_depositor.tooltip.price": "価格：%s¤",
   "block.numismatics.brass_depositor.tooltip.summary": "_上面_を_Shiftクリック_で価格を設定し、_右クリック_で手持ちのカードかインベントリ内のコインを使用して指定された金額を支払うことができます。支払いが完了すると、レッドストーンパルスが発生します。",
   "block.numismatics.creative_vendor": "クリエイティブ販売機",
   "block.numismatics.creative_vendor.tooltip": "クリエイティブ販売機",

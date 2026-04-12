@@ -19,7 +19,7 @@
   "block.numismatics.blaze_banker.tooltip.summary": "Створює банківський рахунок на ім’я банкіра, корисно для спільного використання рахунку кількома людьми. Ви можете призначити _банківську картку_ банкіру, помістивши її у відповідний слот.",
   "block.numismatics.brass_depositor": "Латунний укладник",
   "block.numismatics.brass_depositor.tooltip": "ЛАТУННИЙ УКЛАДНИК",
-  "block.numismatics.brass_depositor.tooltip.price": "Ціна: %s %s",
+  "block.numismatics.brass_depositor.tooltip.price": "Ціна: %s¤",
   "block.numismatics.brass_depositor.tooltip.summary": "ПКМ + Shift, щоби налаштувати, ПКМ, щоб укласти вказану суму або карткою, або монетами в руці, після чого видається редстоун сигнал.",
   "block.numismatics.creative_vendor": "Творча крамниця",
   "block.numismatics.creative_vendor.tooltip": "ТВОРЧА КРАМНИЦЯ",

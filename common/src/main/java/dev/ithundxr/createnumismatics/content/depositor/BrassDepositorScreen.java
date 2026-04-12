@@ -113,7 +113,7 @@ public class BrassDepositorScreen extends AbstractSimiContainerScreen<BrassDepos
 
         int spurs = menu.contentHolder.getTotalPrice();
         Component balanceLabel = Component.translatable("block.numismatics.brass_depositor.tooltip.price",
-            TextUtils.formatInt(spurs), Coin.SPUR.getName(spurs));
+            TextUtils.formatInt(spurs));
         graphics.drawCenteredString(font, balanceLabel, x + (background.width - 8) / 2, y + 21, 0xFFFFFF);
     }
 

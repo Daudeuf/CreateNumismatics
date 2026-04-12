@@ -19,7 +19,7 @@
   "block.numismatics.blaze_banker.tooltip.summary": "Crée un compte bancaire au nom du banquier, utile pour partager un compte avec plusieurs personnes. Vous pouvez assigner une _carte bancaire_ au banquier en le plaçant dans l'emplacement approprié.",
   "block.numismatics.brass_depositor": "Automate de dépôt en laiton",
   "block.numismatics.brass_depositor.tooltip": "AUTOMATE DE DÉPÔT EN LAITON",
-  "block.numismatics.brass_depositor.tooltip.price": "Prix : %s %s",
+  "block.numismatics.brass_depositor.tooltip.price": "Prix : %s¤",
   "block.numismatics.brass_depositor.tooltip.summary": "_Maj + clic droit_ sur le _dessus_ pour configurer, _clic droit_ pour payer le montant donné en utilisant soit une carte soit des pièces, une impulsion de redstone est alors émise.",
   "block.numismatics.creative_vendor": "Boutique créative",
   "block.numismatics.creative_vendor.tooltip": "BOUTIQUE CRÉATIVE",

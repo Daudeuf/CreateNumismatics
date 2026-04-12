@@ -19,7 +19,7 @@
   "block.numismatics.blaze_banker.tooltip.summary": "Tworzy konto bankowe w imieniu bankiera, przydatne do dzielenia się kontem z różnymi ludźmi. Możesz przypisać _Kartę bankową_ do bankiera poprzez umieszczanie ją na właściwym miejscu.",
   "block.numismatics.brass_depositor": "Mosiężny depozytor",
   "block.numismatics.brass_depositor.tooltip": "MOSIĘŻNY DEPOZYTOR",
-  "block.numismatics.brass_depositor.tooltip.price": "Cena: %s %s",
+  "block.numismatics.brass_depositor.tooltip.price": "Cena: %s¤",
   "block.numismatics.brass_depositor.tooltip.summary": "_kliknij z shiftem_ na _góre_ aby skonfigurować, _kliknij prawym przyciskiem myszy_ aby zapłacić wyznaczoną kwotę kartą lub pieniędzmi w twojej ręce, w tym momencie będzie emitowany puls redstone.",
   "block.numismatics.creative_vendor": "Kreatywny Automat",
   "block.numismatics.creative_vendor.tooltip": "KREATYWNY AUTOMAT",

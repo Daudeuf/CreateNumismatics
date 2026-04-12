@@ -19,7 +19,7 @@
   "block.numismatics.blaze_banker.tooltip.summary": "Erstellt ein Bankkonto im Namen des Bankers, nützlich um ein Konto mit mehreren Personen zu teilen. Sie können dem Banker eine _Bankkarte_ zuweisen, indem Sie sie in dem entsprechenden Bereich platzieren.",
   "block.numismatics.brass_depositor": "Messing Terminal",
   "block.numismatics.brass_depositor.tooltip": "MESSING TERMINAL",
-  "block.numismatics.brass_depositor.tooltip.price": "Preis: %s %s",
+  "block.numismatics.brass_depositor.tooltip.price": "Preis: %s¤",
   "block.numismatics.brass_depositor.tooltip.summary": "Oben zum Konfigurieren _Shift klicken_, _rechts klicken_ um den angegebenen Betrag entweder mit der Karte oder Münzen in deinem Inventar zu bezahlen an diesem Punkt wird ein Redstoneimpuls emmiert.",
   "block.numismatics.creative_vendor": "Kreativer Verkaufsstand",
   "block.numismatics.creative_vendor.tooltip": "KREATIVE VERKAUFSSTAND",
