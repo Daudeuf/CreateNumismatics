@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "Vendedor",
   "block.numismatics.vendor.tooltip": "VENDEDOR",
   "block.numismatics.vendor.tooltip.mode": "Modo",
-  "block.numismatics.vendor.tooltip.price": "Por: %s %s",
+  "block.numismatics.vendor.tooltip.price": "Por: %s¤",
   "block.numismatics.vendor.tooltip.stock": "Stock",
   "block.numismatics.vendor.tooltip.summary": "Permite el intercambio de objetos a través de tiendas creadas por los jugadores. Haz clic derecho para comerciar, o _mantén presionada la tecla Shift_ para configurarlo.",
   "block.numismatics.vendor.tooltip.trade_item": "Objeto a comerciar",

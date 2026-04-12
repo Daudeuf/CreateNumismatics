@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "Winkel",
   "block.numismatics.vendor.tooltip": "WINKEL",
   "block.numismatics.vendor.tooltip.mode": "Instelling",
-  "block.numismatics.vendor.tooltip.price": "Voor: %s %s",
+  "block.numismatics.vendor.tooltip.price": "Voor: %s¤",
   "block.numismatics.vendor.tooltip.stock": "Voorraad",
   "block.numismatics.vendor.tooltip.summary": "Maakt het verhandelen van voorwerpen via spelergemaakte winkels mogelijk. _Rechtsklik_ om te verhandelen of _shift klik_ om het te configureren.",
   "block.numismatics.vendor.tooltip.trade_item": "Voorwerp te Handelen",

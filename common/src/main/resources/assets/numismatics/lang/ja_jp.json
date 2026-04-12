@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "販売機",
   "block.numismatics.vendor.tooltip": "販売機",
   "block.numismatics.vendor.tooltip.mode": "モード",
-  "block.numismatics.vendor.tooltip.price": "価格：%s%s",
+  "block.numismatics.vendor.tooltip.price": "価格：%s¤",
   "block.numismatics.vendor.tooltip.stock": "在庫",
   "block.numismatics.vendor.tooltip.summary": "プレイヤーが作成したショップを介してアイテムを取引することができます。_右クリック_で取引、_Shiftクリック_で設定ができます。",
   "block.numismatics.vendor.tooltip.trade_item": "取引するアイテム",

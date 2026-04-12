@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "Verkäufer",
   "block.numismatics.vendor.tooltip": "VERKÄUFER",
   "block.numismatics.vendor.tooltip.mode": "Modus",
-  "block.numismatics.vendor.tooltip.price": "Für: %s %s",
+  "block.numismatics.vendor.tooltip.price": "Für: %s¤",
   "block.numismatics.vendor.tooltip.stock": "Lagerbestand",
   "block.numismatics.vendor.tooltip.summary": "Ermöglicht den Handel von Gegenständen durch Spieler gemachte Geschäfte. _Rechtsklick_ zum Handeln, oder _Shift-Klick_ um es zu konfigurieren.",
   "block.numismatics.vendor.tooltip.trade_item": "Gegenstand zum Handel",

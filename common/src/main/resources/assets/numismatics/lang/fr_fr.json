@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "Boutique",
   "block.numismatics.vendor.tooltip": "BOUTIQUE",
   "block.numismatics.vendor.tooltip.mode": "Mode",
-  "block.numismatics.vendor.tooltip.price": "Pour : %s %s",
+  "block.numismatics.vendor.tooltip.price": "Pour : %s¤",
   "block.numismatics.vendor.tooltip.stock": "Stock",
   "block.numismatics.vendor.tooltip.summary": "Permet d'échanger des items à travers les boutiques du joueur. _Clic droit_ pour échanger, ou _Maj + Clic droit_ pour configurer.",
   "block.numismatics.vendor.tooltip.trade_item": "Objet à échanger",

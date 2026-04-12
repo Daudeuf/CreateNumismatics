@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "Торговый автомат",
   "block.numismatics.vendor.tooltip": "ТОРГОВЫЙ АВТОМАТ",
   "block.numismatics.vendor.tooltip.mode": "Режим",
-  "block.numismatics.vendor.tooltip.price": "Цена: %s %s",
+  "block.numismatics.vendor.tooltip.price": "Цена: %s¤",
   "block.numismatics.vendor.tooltip.stock": "Склад",
   "block.numismatics.vendor.tooltip.summary": "Позволяет торговать предметами через магазины, созданные игроками. _ПКМ_ для совершения сделки, _крадучись_ для настройки.",
   "block.numismatics.vendor.tooltip.trade_item": "Товар",

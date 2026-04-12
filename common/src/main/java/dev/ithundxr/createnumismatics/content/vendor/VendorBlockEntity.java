@@ -319,7 +319,7 @@ public class VendorBlockEntity extends SmartBlockEntity implements Trusted, Trus
 
         int spurs = getTotalPrice();
         MutableComponent balanceLabel = Component.translatable("block.numismatics.vendor.tooltip.price",
-            TextUtils.formatInt(spurs), Coin.SPUR.getName(spurs));
+            TextUtils.formatInt(spurs));
 
         // Selling/Buying
         Lang.builder(Numismatics.MOD_ID)

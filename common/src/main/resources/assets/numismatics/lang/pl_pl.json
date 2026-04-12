@@ -28,7 +28,7 @@
   "block.numismatics.vendor": "Automat",
   "block.numismatics.vendor.tooltip": "AUTOMAT",
   "block.numismatics.vendor.tooltip.mode": "Tryb",
-  "block.numismatics.vendor.tooltip.price": "Za: %s %s",
+  "block.numismatics.vendor.tooltip.price": "Za: %s¤",
   "block.numismatics.vendor.tooltip.stock": "Napełnij",
   "block.numismatics.vendor.tooltip.summary": "Pozwala na handel przedmiotami przez sklepy stworzone przez graczy. _Kliknij prawym przyciskiem myszy, aby handlować lub _kliknij razem z shiftem_ aby go skonfigurować.",
   "block.numismatics.vendor.tooltip.trade_item": "Przedmiot do wymiany",
