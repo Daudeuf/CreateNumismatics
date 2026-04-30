@@ -7,8 +7,8 @@ license = "LGPL"
 [[mods]]
 modId = "numismatics"
 version = "${version}"
-displayName = "Create: Numismatics"
-authors = "IThundxr, Violet, Pink, Slimeist, Razziel"
+displayName = "Create: Numismatics (custom)"
+authors = "IThundxr, Violet, Pink, Slimeist, Razziel, Clem76"
 description = '''
 A visually-pleasing and redstone-integrated Create-styled currency mod
 '''
